@@ -1,0 +1,4 @@
+main: at.yawk.worldguard.nointeract.NoInteract
+name: WGNoInteract
+author: Yawkat
+version: 1.0-SNAPSHOT
